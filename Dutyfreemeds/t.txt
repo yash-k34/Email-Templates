@@ -1,0 +1,15 @@
+.toc #ez-toc-container a.ez-toc-toggle {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  #ez-toc-container {
+    width: 100%;
+  }
+
+  .toc #ez-toc-container a.ez-toc-toggle {
+    display: block;
+  }
+}
+
+/* toggle-icon */
